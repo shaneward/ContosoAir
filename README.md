@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/birbbirb/lab1_4584726984576456dsfsdfsddsfsdfsfd/_apis/build/status/shaneward.ContosoAir?branchName=master)](https://dev.azure.com/birbbirb/lab1_4584726984576456dsfsdfsddsfsdfsfd/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
